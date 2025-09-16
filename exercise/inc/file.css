@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    color: red;
+}
+
+.tableau tr td {
+    color: black;
+    border: 1px solid red;
+
+
+
+}
+
+.tableau {
+    border-collapse: collapse;
+}
+
+h1 {
+    border: 1px dashed black;
+    display: inline;
+}
+
+span {
+    border: 12px dotted yellow;
+    display: block;
+}
+
+p:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+p {
+    color: yellow;
+}
